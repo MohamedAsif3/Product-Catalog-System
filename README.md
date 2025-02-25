@@ -1,6 +1,5 @@
 <h1 align="center">Product Catalog System</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
 
@@ -39,4 +38,3 @@ operable program or batch file.
     "start": "cross-env NODE_ENV=production node backend/server.js"
   },
   
-### I'll see you in the next one! 🚀
